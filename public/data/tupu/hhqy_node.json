@@ -1,0 +1,35 @@
+[
+    {
+        "name": "TYLCV",
+        "id": 0,
+        "detail": "Tomato yellow leaf curl disease",
+        "itemStyle": {
+            "color": "blue"
+        }
+    },
+    {"name": "or develop \n the disease...","id": 1,"category": 1,"detail": ""},
+    {"name": "fumigate with \n smoke...","id": 2,"category": 1,"detail": ""},
+    {"name": "select \n disease-resistant...","id": 3,"category": 2,"detail": ""},
+    {"name": "irregular \n shape...","id": 4,"category": 0,"detail": ""},
+    {"name": "Leaves","id": 5,"category": 3,"detail": ""},
+    {"name": "spray with \n 70%...","id": 6,"category": 1,"detail": ""},
+    {"name": "high-temperature \n fumigation in\n the greenhouse...","id": 7,"category": 2,"detail": ""},
+    {"name": "irregular\n shape...","id": 8,"category": 0,"detail": ""},
+    {"name": "later part...","id": 9,"category": 0,"detail": ""},
+    {"name": "spray 1 \non day 0...","id": 10,"category": 1,"detail": ""},
+    {"name": "strengthen \ncultivation...","id": 11,"category": 4,"detail": ""},
+    {"name": "near the \nleaf veins...","id": 12,"category": 0,"detail": ""},
+    {"name": "lesions are \nmostly...","id": 13,"category": 0,"detail": ""},
+    {"name": "mycelium\n or...","id": 14,"category": 6,"detail": ""},
+    {"name": "annual\n germination form...","id": 15,"category": 0,"detail": ""},
+    {"name": "is capable \nof direct \ninfection...","id": 16,"category": 0,"detail": ""},
+    {"name": "affected \narea shows...","id": 17,"category": 0,"detail": ""},
+    {"name": "annually rely\n on air currents...","id": 18,"category": 6,"detail": ""},
+    {"name": "leaf \nstalk...","id": 19,"category": 3,"detail": ""},
+    {"name": "promptly\n remove...","id": 20,"category": 2,"detail": ""},
+    {"name": "Leaves","id": 21,"category": 5,"detail": ""},
+    {"name": "leaves \nand fruits","id": 22,"category": 3,"detail": ""},
+    {"name": "high \nhumidity...","id": 23,"category": 6,"detail": ""},
+    {"name": "early stages\n of infection...","id": 24,"category": 1,"detail": ""},
+    {"name": "using \nmycelium...","id": 25,"category": 5,"detail": ""}
+]
