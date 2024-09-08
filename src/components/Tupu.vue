@@ -133,6 +133,9 @@ export default {
                                 },
                                 formatter: "{c}"
                             },
+                            edgeLabel: {
+                                show: false,  // 隐藏线上的文字
+                            },
                             data: mydata,
                             links: links,
                             lineStyle: {
